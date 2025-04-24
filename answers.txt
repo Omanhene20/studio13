@@ -1,0 +1,31 @@
+file_request_output
+
+server terminal:
+Server is listening...
+Received request: hello.txt
+
+client terminal:
+Hello from the server file!
+(This is the content of hello.txt)
+
+
+ls_command_output
+
+server terminal:
+Server is listening...
+Received request: ls
+
+
+client terminal:
+client
+server
+hello.txt
+Makefile
+
+quit_shutdown
+
+server terminal:
+Server is listening...
+Received request: quit
+Shutdown signal received.
+
